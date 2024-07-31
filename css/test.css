@@ -1,0 +1,33 @@
+body{
+	background-color: khaki;
+}
+
+
+
+h1{
+font: 40px;
+color:fuchsia;
+
+}
+h2{
+font: 20px;
+color:lime;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+
+}
+
+.big.uppercase{
+color: tomato; 
+}
+
+span{
+color: gold;
+font-size: 30px;
+}
